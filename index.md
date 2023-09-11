@@ -1,7 +1,3 @@
-- Phone: 347-969-6378
-- Email: henrylei2000@gmail.com
-- Address: 500 College Avenue, Swarthmore, PA
-
 ## EDUCATION
 - **Swarthmore College**
   - Expected Graduation: May 2024

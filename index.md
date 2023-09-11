@@ -1,4 +1,3 @@
-# HENRY LEI
 - Phone: 347-969-6378
 - Email: henrylei2000@gmail.com
 - Address: 500 College Avenue, Swarthmore, PA
@@ -6,7 +5,8 @@
 ## EDUCATION
 - **Swarthmore College**
   - Expected Graduation: May 2024
-  - Double major in Computer Science and Economics (GPA: 3.9/4.0)
+  - Double major in Computer Science and Economics
+    - GPA: 3.9/4.0
   - Coursework
     - Data Structures and Algorithms
     - Computer Systems

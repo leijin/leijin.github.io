@@ -1,8 +1,17 @@
+# HENRY LEI
+- GPA 3.9/4.0, CS + Econ at Swarthmore and Oxford
+- Internships at T. Rowe Price and SVB Securities
+- Award-winning research and startup
+
+## SKILLS
+- Equity Research: modeling and valuation techniques, buy-side and sell-side, data analysis and visualization
+- Business Development: problem-solving, scope and resource management, communication and presentation
+- Computer Science: Python, C/C++, SQL, Excel, pattern recognition, machine learning
+
 ## EDUCATION
 - **Swarthmore College**
   - Expected Graduation: May 2024
   - Double major in Computer Science and Economics
-    - GPA: 3.9/4.0
   - Coursework
     - Data Structures and Algorithms
     - Computer Systems
@@ -27,11 +36,6 @@
 - **SAT: 1590**
   - Reading & Writing: 790
   - Math: 800
-  
-## SKILLS
-- Equity Research: modeling and valuation techniques, buy-side and sell-side, data analysis and visualization
-- Business Development: problem-solving, scope and resource management, communication and presentation
-- Computer Science: Python, C/C++, SQL, Excel, pattern recognition, machine learning
 
 ## EXPERIENCES
 ### Equity Research Summer Associate, SVB Securities

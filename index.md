@@ -6,8 +6,7 @@
 ## EDUCATION
 - **Swarthmore College**
   - Expected Graduation: May 2024
-  - Double major in Computer Science and Economics
-    - GPA: 3.9 / 4.0
+  - Double major in Computer Science and Economics (GPA: 3.9/4.0)
   - Coursework
     - Data Structures and Algorithms
     - Computer Systems
@@ -20,7 +19,6 @@
     - Econometrics
     - Finance
     - Logic
-    - International Relations
 - **University of Oxford**
   - Worcester College, Sep 2022 - Jun 2023
   - Coursework
@@ -30,7 +28,6 @@
     - Game Theory
     - Computational Game Theory
     - Money and Banking
-    - Development of the World Economy Since 1800
 - **SAT: 1590**
   - Reading & Writing: 790
   - Math: 800
